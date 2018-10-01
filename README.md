@@ -1,7 +1,1 @@
-#Student Aid BC - Wordpress 
-This repo is only for SABC Content product (Wordpress).
-
-#Getting Started
-Things to do to get the project running on your machine:
-1.	Install wp-config.php file
-2.  Setup MySQL Database - MUST be MySQL not postgres
+This is a simple Wordpress Post Scheduler. Create a draft post that matches the name of an existing post. Make all the changes 
